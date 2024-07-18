@@ -16,5 +16,5 @@ if bit == "64bit":
  
 if bit == "32bit":
  print( '\u001b[37m\x1b[38;5;196m>> \033[1;97m32Bit Found')
- from from import login
+ from flash import login
  login()
